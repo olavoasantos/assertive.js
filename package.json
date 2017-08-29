@@ -13,6 +13,14 @@
   "scripts": {
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olavoasantos/assertive.js.git"
+  },
   "author": "Olavo Amorim Santos",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olavoasantos/assertive.js/issues"
+  },
+  "homepage": "https://github.com/olavoasantos/assertive.js#readme"
 }
